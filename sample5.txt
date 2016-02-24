@@ -1,0 +1,36 @@
+1    // Load 0
+0
+14   // CopyToX
+4    // LoadIdxX 28 (load from A-Z table) 
+13
+21   // JumpIfEqual 12 
+12
+9    // Put 2 (output as char)
+2
+25   // IncX
+20   // Jump 3
+3
+50   // End
+83
+82
+73
+78
+73
+86
+65
+83
+32
+76
+73
+78
+71
+65
+77
+71
+85
+78
+84
+65
+0
+.1000
+30
